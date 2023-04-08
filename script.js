@@ -12,7 +12,6 @@ class Rectangle {
     
     def getArea(self):
         return self._width * self._height
-  }
 }
 
 class Square(Rectangle) {
